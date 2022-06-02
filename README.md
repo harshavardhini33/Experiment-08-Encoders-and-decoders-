@@ -86,7 +86,7 @@ endmodule
 <img width="356" alt="output2" src="https://user-images.githubusercontent.com/93427208/171608610-5c8ab163-42d2-4b88-b5d2-d3d9091cd6b0.png">
 
 ### TRUTH TABLE
-![encodertt](https://user-images.githubusercontent.com/93427208/171608758-3614f759-39c1-4175-b12e-1f3de869fcf0.png)
+![encoder truth](https://user-images.githubusercontent.com/93427208/171663918-475820e8-5724-488d-9b3a-95cbac4b5ed1.png)
 
 ### DECODER 
 ```
