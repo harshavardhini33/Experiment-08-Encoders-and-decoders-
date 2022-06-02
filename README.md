@@ -104,28 +104,18 @@ assign d7 = (a&b&c);
 endmodule 
 ```
 
-
-
-
-
-
-
 ### RTL LOGIC  
-
-
-
-
-
-
-
+![decoder rtl](https://user-images.githubusercontent.com/93427208/171608913-94c47cbf-867b-4c05-89bb-4217d7c653fa.png)
 
 ### TIMING DIGRAMS  
+![DE exp-08decodertime](https://user-images.githubusercontent.com/93427208/171609096-c5d96273-825f-49d3-9c0c-7413d5d5334b.png)
 
 
 
 
 
 ### TRUTH TABLE 
+![decodertt](https://user-images.githubusercontent.com/93427208/171609054-b81ae2fd-edbe-42ed-90c4-b677551e9f3b.jpg)
 
 
 
@@ -133,3 +123,4 @@ endmodule
 
 
 ### RESULTS 
+Thus the program to desing encoder and decoder is completed.
